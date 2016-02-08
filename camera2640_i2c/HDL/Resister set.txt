@@ -1,0 +1,161 @@
+ff 00 --DSP Resister
+2c ff --RSVD
+2e df --RSVD
+
+ff 01 --Sensor Register
+3c 32 --RSVD
+11 80 --Set PCLK divider
+09 02 --Output drive x2
+04 F8 --Mirror/VFLIP/VREF/HREF
+13 05 --Auto Exposure/Auto AGC
+2c 0c --RSVD
+33 78 --RSVD
+3a 33 --RSVD
+3b fb --RSVD
+3e 00 --RSVD
+43 11 --RSVD
+16 10 --RSVD
+39 02 --RSVD
+35 88 --RSVD
+22 0a --RSVD
+37 40 --RSVD
+23 00 --RSVD
+34 a0 --RSVD
+06 02 --RSVD
+06 88 --RSVD
+07 c0 --RSVD
+0d b7 --RSVD
+0e 01 --RSVD
+4c 00 --RSVD
+4a 81 --RSVD
+21 99 --RSVD
+12 46 --SVGA/ZOOM EN/COLOR BAR
+5a 57 --RSVD
+03 0a --Com1 svga
+32 09 --Reg32 svga
+17 11 --Hstart
+18 43 --Hstop
+19 00 --Vstart
+1a 4b --Vstop
+35 da --RSVD
+22 1a --RSVD
+37 c3 --RSVD
+34 c0 --RSVD
+06 88 --RSVD
+0d 87 --RSVD
+0e 41 --RSVD
+42 03 --RSVD
+
+
+ff 00 --DSP Resister
+e5 7f --RSVD
+f9 c0 --Micro reset and boot rom
+41 24 --RSVD
+e0 14 --RESET JPEG and DVP
+76 ff --RSVD
+33 a0 --RSVD
+42 20 --RSVD
+43 18 --RSVD
+4c 00 --RSVD
+87 d0 --Ctrl3 settings
+88 3f --RSVD
+d7 03 --RSVD
+d9 10 --RSVD
+d3 82 --RSVD
+c8 08 --RSVD
+c9 80 --RSVD
+7c 00 --RSVD
+7d 00 --RSVD
+7c 03 --RSVD
+7d 48 --RSVD
+7d 48 --RSVD
+7c 08 --RSVD
+7d 20 --RSVD
+7d 10 --RSVD
+7d 0e --RSVD
+90 00 --RSVD
+91 0e --RSVD
+91 1a --RSVD
+91 31 --RSVD
+91 5a --RSVD
+91 69 --RSVD
+91 75 --RSVD
+91 7e --RSVD
+91 88 --RSVD
+91 8f --RSVD
+91 96 --RSVD
+91 a3 --RSVD
+91 af --RSVD
+91 c4 --RSVD
+91 d7 --RSVD
+91 e8 --RSVD
+91 20 --RSVD
+92 00 --RSVD
+93 06 --RSVD
+93 e3 --RSVD
+93 03 --RSVD
+93 03 --RSVD
+93 00 --RSVD
+93 02 --RSVD
+93 00 --RSVD
+93 00 --RSVD
+93 00 --RSVD
+93 00 --RSVD
+93 00 --RSVD
+93 00 --RSVD
+93 00 --RSVD
+96 00 --RSVD
+97 08 --RSVD
+97 19 --RSVD
+97 02 --RSVD
+97 0c --RSVD
+97 24 --RSVD
+97 30 --RSVD
+97 28 --RSVD
+97 26 --RSVD
+97 02 --RSVD
+97 98 --RSVD
+97 80 --RSVD
+97 00 --RSVD
+97 00 --RSVD
+a4 00 --RSVD
+a8 00 --RSVD
+c5 11 --RSVD
+c6 51 --RSVD
+bf 80 --RSVD
+c7 10 --RSVD
+b6 66 --RSVD
+b8 A5 --RSVD
+b7 64 --RSVD
+b9 7C --RSVD
+b3 af --RSVD
+b4 97 --RSVD
+b5 FF --RSVD
+b0 C5 --RSVD
+b1 94 --RSVD
+b2 0f --RSVD
+c4 5c --RSVD
+a6 00 --RSVD
+a7 20 --RSVD
+a7 d8 --RSVD
+a7 1b --RSVD
+a7 31 --RSVD
+a7 00 --RSVD
+a7 18 --RSVD
+a7 20 --RSVD
+a7 d8 --RSVD
+a7 19 --RSVD
+a7 31 --RSVD
+a7 00 --RSVD
+a7 18 --RSVD
+a7 20 --RSVD
+a7 d8 --RSVD
+a7 19 --RSVD
+a7 31 --RSVD
+a7 00 --RSVD
+a7 18 --RSVD
+7f 00 --RSVD
+e5 1f --RSVD
+e1 77 --RSVD
+dd 7f --RSVD
+c2 0e --YUV RGB

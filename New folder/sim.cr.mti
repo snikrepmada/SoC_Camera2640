@@ -1,0 +1,10 @@
+{G:/SoC_Camera2460/New folder/i2cm_tb.vhd} {1 {vcom -work work -2002 -explicit -stats=none {G:/SoC_Camera2460/New folder/i2cm_tb.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity i2cm_tb
+-- Compiling architecture tb of i2cm_tb
+
+} {} {}}

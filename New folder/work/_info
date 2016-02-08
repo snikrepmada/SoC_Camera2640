@@ -1,0 +1,92 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dG:/EEL4713/Lab4/simulation/modelsim
+Ei2cm
+Z0 w1454867368
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dG:/SoC_Camera2460/New folder
+Z5 8G:/SoC_Camera2460/camera2640_i2c/HDL/i2cm.vhd
+Z6 FG:/SoC_Camera2460/camera2640_i2c/HDL/i2cm.vhd
+l0
+L5
+Vzek>S<?cb<:P4_dLRdOHV1
+!s100 Y4h;K7f7k:FRoQX8_WSk10
+Z7 OP;C;10.4a;61
+32
+Z8 !s110 1454867410
+!i10b 1
+Z9 !s108 1454867410.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|G:/SoC_Camera2460/camera2640_i2c/HDL/i2cm.vhd|
+Z11 !s107 G:/SoC_Camera2460/camera2640_i2c/HDL/i2cm.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit -O0
+Z13 tExplicit 1
+Artl
+R1
+R2
+R3
+Z14 DEx4 work 4 i2cm 0 22 zek>S<?cb<:P4_dLRdOHV1
+l31
+L21
+VPG17FK2iCeWe=OTA9LU5j0
+!s100 OGf>_jIPYKaf]j7A7[dN02
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Ei2cm_tb
+Z15 w1454813890
+R1
+R2
+R3
+R4
+Z16 8G:/SoC_Camera2460/New folder/i2cm_tb.vhd
+Z17 FG:/SoC_Camera2460/New folder/i2cm_tb.vhd
+l0
+L5
+VYEFa>UF@g45X8XYH;;RjG2
+!s100 ?h<@BkMI`32afMcl5=D?P2
+R7
+32
+Z18 !s110 1454813897
+!i10b 1
+Z19 !s108 1454813897.000000
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|G:/SoC_Camera2460/New folder/i2cm_tb.vhd|
+Z21 !s107 G:/SoC_Camera2460/New folder/i2cm_tb.vhd|
+!i113 1
+R12
+R13
+Atb
+R1
+R2
+R3
+DEx4 work 7 i2cm_tb 0 22 YEFa>UF@g45X8XYH;;RjG2
+l45
+L13
+V_h<OIcVCjzNlZ8l9KRCLa3
+!s100 QjPoJPiof0dmEn27RXjW40
+R7
+32
+R18
+!i10b 1
+R19
+R20
+R21
+!i113 1
+R12
+R13

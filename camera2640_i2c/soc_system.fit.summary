@@ -1,0 +1,20 @@
+Fitter Status : Successful - Sun Feb 07 19:07:46 2016
+Quartus II 64-Bit Version : 15.0.2 Build 153 07/15/2015 SJ Web Edition
+Revision Name : soc_system
+Top-level Entity Name : ghrd
+Family : Cyclone V
+Device : 5CSEMA4U23C6
+Timing Models : Final
+Logic utilization (in ALMs) : 3,501 / 15,880 ( 22 % )
+Total registers : 4733
+Total pins : 230 / 314 ( 73 % )
+Total virtual pins : 0
+Total block memory bits : 1,050,624 / 2,764,800 ( 38 % )
+Total RAM Blocks : 132 / 270 ( 49 % )
+Total DSP Blocks : 0 / 84 ( 0 % )
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 1 / 5 ( 20 % )
+Total DLLs : 1 / 4 ( 25 % )
